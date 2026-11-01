@@ -108,4 +108,4 @@ python day2_weatherapi.py
 
 ## 👤 Author
 
-- **Branham Simiyu**
+Branham Simiyu
